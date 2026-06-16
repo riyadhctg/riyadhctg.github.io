@@ -61,6 +61,7 @@ a {
 
 .layout {
   display: grid;
+  align-content: start;
   gap: 12px;
   width: min(100% - 48px, 860px);
   min-height: 100vh;
